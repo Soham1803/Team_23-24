@@ -4,6 +4,7 @@
 
 1. Soham Ratnaparkhi (President) - [GitHub](https://github.com/SohamRatnaparkhi), [Linkedin](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/), [Twitter](https://twitter.com/SohamR_7113)
 
+4. Soham Panchal (Technical Lead) - [GitHub](https://github.com/Soham1803), [LinkedIn](https://www.linkedin.com/in/soham-panchal-800968225), [Twitter](https://twitter.com/Soham_desu)
 ## Domains
 
 1. Web
